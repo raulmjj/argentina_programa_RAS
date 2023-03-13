@@ -1,3 +1,7 @@
 hola mundo
 hola mundo 2 desde web
+<<<<<<< HEAD
 prueba local
+=======
+hola mundo 3 desde web
+>>>>>>> 6a2b640f48654857ed907dc299b5a724adfeccf2
