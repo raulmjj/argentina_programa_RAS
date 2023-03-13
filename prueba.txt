@@ -4,4 +4,5 @@ hola mundo 2 desde web
 prueba local
 =======
 hola mundo 3 desde web
->>>>>>> 6a2b640f48654857ed907dc299b5a724adfeccf2
+
+>>>>>>> solucione el problema del punto 8 ejecutando un comando en el cmd que me dio el programa github desktop, ejecute el comando "git push -f origin main" en la carpeta de destino y pude solucionarlo<<<<<<<<<
